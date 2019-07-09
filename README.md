@@ -1,6 +1,1 @@
-echo "# your-template" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/jnicklous/your-template.git
-git push -u origin master
+Joe Nicklous - Just learning git
